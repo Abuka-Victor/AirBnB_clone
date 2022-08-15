@@ -1,5 +1,6 @@
 #!usr/bin/python3
 """ My file storage module """
+from models.base_model import BaseModel
 import json
 import os
 from pathlib import Path
